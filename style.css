@@ -1,0 +1,24 @@
+.container{
+    background-color: aqua;
+    font-size: 35px;
+    color: black;
+    font-family: cursive;
+    text-align: center;
+    margin-top: 40px;
+}
+p{
+    font-size: 23px;
+}
+.imgcontainer{
+    position: relative;
+}
+.textinside{
+    position: absolute;
+    top: 2%;
+    left: 20px;
+    font-size: 40px;
+    font-family: fantasy;
+    color: maroon;
+    text-decoration: underline;
+    
+}
