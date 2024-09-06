@@ -11,14 +11,40 @@ p{
 }
 .imgcontainer{
     position: relative;
+    display: flex;
+        justify-content: center;
 }
 .textinside{
     position: absolute;
     top: 2%;
-    left: 20px;
-    font-size: 40px;
+    left: 380px;
+    font-size: 25px;
     font-family: fantasy;
     color: maroon;
     text-decoration: underline;
     
 }
+img{
+    width: 500px;
+    height: 300px;
+   margin-bottom: 70px; 
+}
+
+.footer{
+    background-color:violet ;
+    font-family: Tahoma;
+    text-align: center;
+    height: 200px;
+    
+}
+#f1{
+    padding-top: 20px;
+}
+.fa-brands{
+    font-size: 40px;
+    padding-right: 25px;
+}
+.fa-solid{
+padding-right: 20px;
+}
+
