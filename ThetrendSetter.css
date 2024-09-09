@@ -1,0 +1,39 @@
+.container-fluid{
+background-color: black;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+#heading1{
+    color: white;
+    padding: 6px;
+    text-align: center;
+    font-size: 50px;
+    font-family:Gill Sans;
+    margin-left:400px;
+}
+#search{
+    background-color: black;
+    border: none;
+    cursor: pointer;
+    font-size: 50px;
+    padding-left: 120px;
+    margin-left: 200px;
+}
+#heading2{
+    margin:50px auto;
+    text-align: center;
+    font-family:helvetica;
+    font-weight: bold;
+}
+.L1{
+    font-size: 14px;
+    font-weight: bold;
+    font-family: Cochin;
+    text-align: center;
+    padding-left: 10px;
+    align-items: center;
+}
+#links{
+text-align: center;
+}
