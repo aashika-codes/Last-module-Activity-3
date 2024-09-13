@@ -37,3 +37,32 @@ align-items: center;
 #links{
 text-align: center;
 }
+#fb {
+    padding-left: 10px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    font-weight: bold;
+}
+#brands_buttons{
+    /*margin-left: 200px;
+    margin-right: 100px;*/
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px
+}
+.f-image{
+width:800px; 
+height:400px;
+display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#carouselExampleAutoplaying{
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-top: 40px;
+}
+.container{
+margin-left: 200px;
+}
